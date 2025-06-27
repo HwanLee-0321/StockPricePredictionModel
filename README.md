@@ -68,8 +68,6 @@ The goal of this project is to predict future stock prices by training on histor
   * **RMSE**: [Evaluation Result Value]
   * **MAE**: [Evaluation Result Value]
 
-**(Optional) Prediction Result Graph:**
-*(Attach your actual prediction result graph and update the link above.)*
 
 ## 🚀 Future Work
 
