@@ -1,0 +1,11 @@
+source_type,headline,related_tic,sentiment,impact_sec,impact_str,source_url
+해외,"트럼프, US스틸 인수 승인 시사","X, US500",1,"철강, 무역",3,https://jp.wsj.com/articles/trump-weighs-sanctions-against-russia-as-relationship-with-putin-sours-b88a6032
+해외,미국 제조업 제품 선호 증가,"US500, DXY",1,"내수, 무역",2,https://www.wsj.com/articles/tariffs-add-fuel-to-hot-used-car-sales-53af7b5e
+해외,"아시아 증시 혼조세, 미국 시장 휴장 영향","HSI, KOSPI",0,시장심리,2,https://www.click2houston.com/business/2025/05/27/asian-shares-mostly-lower-trading-in-a-narrow-range
+해외,"일본은행, 금리 인상 시사","JPYUSD, ^N225",-1,"금리, 통화",3,https://jp.investing.com/news/stock-market-news/article-1125422
+해외,"미국, 한국 주둔 미군 철수 검토","USDKRW, KOSPI",-1,"안보, 외교",5,https://en.yna.co.kr/view/AEN20250527002100320
+국내,"코스피 2,670.15 상승 마감",KOSPI,1,"지수, 수급",3,https://finance.naver.com
+국내,"이재명, 주식시장 공약 발표","TIGER200, KOSPI",1,"정책, 정치",3,https://www.joongang.co.kr/article/25225673
+국내,"에코프로비엠, 코스피 이전 상장 추진",247540.KQ,1,"2차전지, 상장",3,https://biz.chosun.com/stock/market_trend/2025/05/28/
+국내,"원/달러 환율 1,368원 상승",USDKRW,-1,"환율, 수출",2,https://www.mk.co.kr/jp/economy/11327354
+국내,국채 금리 혼조세,KR10Y,0,"금리, 채권",2,https://en.yna.co.kr/view/AEN20250527005300320

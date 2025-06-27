@@ -1,0 +1,11 @@
+source_type,headline,related_tic,sentiment,impact_sec,impact_str,source_url
+해외,"트럼프, 멕시코·캐나다에 25% 관세 부과","US500, MXN, CAD",-1,"무역, 자동차",4,https://www.bbc.com/japanese/articles/cvge83nqj50o?utm_source=chatgpt.com
+해외,"미일 재무장관 회담, 환율 문제 논의","USDJPY, ^N225, KOSPI",-1,"환율, 통화",3,https://www.mk.co.kr/jp/economy/11323865?utm_source=chatgpt.com
+해외,미국 금리 인상 우려,"US10Y, ^GSPC, KOSPI",-1,"금리, 채권",3,https://www.marketwatch.com
+해외,중국 경기 둔화 우려,"SSEC, HSI, KOSPI",-1,"경기, 수출",3,https://www.reuters.com
+해외,"ECB, 금리 동결 결정","EU50, EURUSD, KOSPI",0,통화정책,2,https://www.ecb.europa.eu
+국내,"원/달러 환율 하락, ETF 환차손 유발","USDKRW, TIGER200",-1,"ETF, 환율",3,https://www.mk.co.kr/jp/economy/11323865?utm_source=chatgpt.com
+국내,6·3 보궐선거 앞두고 증시 기대감,KOSPI,1,"정치, 증시",2,https://www.mk.co.kr/jp/stock/11325351?utm_source=chatgpt.com
+국내,"코스피 외국인 순매도, 하락 마감",KOSPI,-1,외국인 자금,3,https://news.livedoor.com/topics/detail/28812275/?utm_source=chatgpt.com
+국내,"K-POP 관련주 기대감, 중국 시장 재진출","035760.KQ, 122870.KQ",1,"엔터, 수출",2,https://www.excite.co.jp/news/article/Cobs_3058736/?utm_source=chatgpt.com
+국내,"코스피 2,600선 하회",KOSPI,-1,지수 기술적 분석,2,https://money1.jp/archives/148874?utm_source=chatgpt.com

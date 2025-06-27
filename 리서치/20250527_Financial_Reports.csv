@@ -1,0 +1,11 @@
+source_type,headline,related_tic,sentiment,impact_sec,impact_str,source_url
+해외,"트럼프, 러시아 추가 제재 검토","US500, RUSL",-1,"지정학, 에너지",4,https://jp.wsj.com/articles/trump-weighs-sanctions-against-russia-as-relationship-with-putin-sours-b88a6032?utm_source=chatgpt.com
+해외,"미국 중고차 가격 상승, 관세 영향","F, GM, US500",-1,"소비재, 자동차",3,https://jp.wsj.com/articles/tariffs-add-fuel-to-hot-used-car-sales-53af7b5e?utm_source=chatgpt.com
+해외,"아시아 증시 혼조세, 미국 시장 휴장","KOSPI, HSI, SSEC",0,시장심리,2,https://www.click2houston.com/business/2025/05/27/asian-shares-mostly-lower-trading-in-a-narrow-range-with-us-markets-closed-for-memorial-day/?utm_source=chatgpt.com
+해외,"일본은행, 추가 금리 인상 시사","JPYUSD, ^N225",-1,"금리, 아시아시장",3,https://jp.investing.com/news/stock-market-news/article-1125422?utm_source=chatgpt.com
+해외,미군 한국 철수 검토 보도,"KOSPI, USDKRW",-1,"안보, 외교",5,https://en.yna.co.kr/view/AEN20250527002100320?utm_source=chatgpt.com
+국내,"코스피, 2,630.29로 하락 출발",KOSPI,-1,"지수, 외국인수급",3,https://s.kabutan.jp/news/n202505270190/?utm_source=chatgpt.com
+국내,"원/달러 환율, 1,368원 상승",USDKRW,-1,"환율, 외환시장",3,https://www.mk.co.kr/jp/economy/11327354?utm_source=chatgpt.com
+국내,한국 국채 금리 혼조세,KR10Y,0,"채권, 금리",2,https://en.yna.co.kr/view/AEN20250527005300320?utm_source=chatgpt.com
+국내,"보수 대선주자 회동, 정치 불확실성 확대",KOSPI,-1,"정치, 투자심리",2,https://en.yna.co.kr/view/PYH20250527095000315?section=image%2Fgeneral&utm_source=chatgpt.com
+국내,"삼성전자·SK하이닉스, 미국 관세 우려로 하락","005930.KQ, 000660.KQ",-1,"IT, 수출",3,https://jp.investing.com/news/stock-market-news/article-1125422?utm_source=chatgpt.com

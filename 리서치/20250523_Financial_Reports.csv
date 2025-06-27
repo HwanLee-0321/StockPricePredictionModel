@@ -1,0 +1,11 @@
+source_type,headline,related_tic,sentiment,impact_sec,impact_str,source_url
+해외,"트럼프, 푸틴의 전쟁 종식 의지 부족 언급","RUB, USDRUB",-1,전 업종,3,https://jp.wsj.com/articles/trump-tells-european-leaders-in-private-that-putin-isnt-ready-to-end-war-4f111116
+해외,"오픈AI, 아부다비에 대형 데이터 센터 건설 참여","MSFT, NVDA, AI",1,"IT, 기술",3,https://jp.wsj.com/articles/openai-commits-to-giant-u-a-e-data-center-in-global-expansion-4675fcea
+해외,"대만, 드론 부대 창설 계획","TSMC, RTX",-1,"방산, 기술",3,https://jp.wsj.com/articles/taiwans-military-plans-new-drone-units-in-preparation-for-potential-china-invasion-1f72ade9
+해외,미국 주식의 디지털 토큰화,"AAPL, TSLA, NVDA",1,"금융, IT",3,https://jp.wsj.com/articles/apple-tesla-and-nvidia-shares-to-trade-as-digital-tokens-on-crypto-exchange-kraken-573cdbe4
+해외,생성형 AI의 PR 산업 영향,"META, GOOG",0,"미디어, IT",2,https://jp.wsj.com/articles/will-ai-empower-the-pr-industry-or-create-endless-seas-of-spam-1432da9f
+국내,코스피 지수 상승 출발,KOSPI,1,전 업종,2,https://s.minkabu.jp/news/4239179
+국내,코스닥 2분기 실적 개선 전망,"KOSDAQ, 제약",1,"의료, 제약",3,https://www.mk.co.kr/jp/stock/11320932
+국내,"디엔솔루션즈, 코스피 상장 추진","KOSPI, 기계",1,"기계, 산업재",2,https://www.mk.co.kr/jp/stock/11264223
+국내,국내 공매도 잔고 증가,KOSPI,-1,전 업종,2,https://www.mk.co.kr/jp/stock/11303920
+국내,중소상공인 매출 감소,"소매, 음식료",-1,내수,2,https://www.mk.co.kr/jp

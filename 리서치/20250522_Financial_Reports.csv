@@ -1,0 +1,11 @@
+source_type,headline,related_tic,sentiment,impact_sec,impact_str,source_url
+해외,미국 국채 수요 감소로 금리 상승,"US10Y, ^GSPC",-1,전 업종,4,https://www.mk.co.kr/jp
+해외,미국 증시 하락,"^DJI, ^GSPC",-1,전 업종,3,https://www.mk.co.kr/jp
+해외,미국 장기 금리 상승,US10Y,-1,"금융, 기술",3,https://blog.goo.ne.jp/heiteidousi/e/c236bed1f3ff99cf49f1a59e1773d482
+해외,유럽 시장 하락,"STOXX50E, DAX",-1,전 업종,2,https://blog.goo.ne.jp/heiteidousi/e/c236bed1f3ff99cf49f1a59e1773d482
+해외,미국 제조업 및 서비스업 PMI 발표 예정,"US500, USD",0,전 업종,3,https://finance.yahoo.co.jp/news/detail/65964d4dda297539c06ef375b890486525f1fd09
+국내,비트코인 사상 최고가 돌파,"BTCUSD, KOSDAQ",1,"투자, IT",3,https://www.mk.co.kr/jp
+국내,한국 5월 무역수지 적자,"KOSPI, USDKRW",-1,수출주,4,https://money1.jp/archives/148829
+국내,주택 가격 변동 분석,"KOSPI, 건설",-1,건설,2,https://money1.jp/archives/148829
+국내,코스피 3일 만에 반등,KOSPI,1,전 업종,2,https://finance.yahoo.co.jp/news/detail/610b20a9a6e2fc9bb4ec2cfa2fd4701ba4f45b37
+국내,더본코리아 대표 백종원 논란,더본코리아,-1,소비재,2,https://kstyle.com/topicNews.ksn?topicNo=10144
