@@ -1,45 +1,43 @@
 # Stock Price Prediction Model
 
-This project is a deep learning/machine learning model that predicts the stock prices of [Target Stock Market or Company, e.g., KOSPI, Samsung Electronics] using [Model Name, e.g., LSTM, ARIMA].
+This project is a deep learning/machine learning model that predicts the stock prices of the top 30 KOSPI companies using LSTM and XGBoost.
 
-## 📜 Overview
+## 📜 Project Overview
 
-The goal of this project is to predict future stock prices by training on historical stock data. Please describe the specific objective here, such as: [e.g., to predict the closing price for a specific period. / to predict the upward or downward trend of the stock price.]
+This project aims to predict future stock prices by learning from historical stock data. It specifically predicts the closing price for a given date.
 
-## ✨ Features
+## ✨ Key Features
 
-  * **Data Collection**: Collects stock price data from [Data Source, e.g., Yahoo Finance, Naver Finance].
+  * **Data Collection**: Collects stock data from [Data Source, e.g., Yahoo Finance, Naver Finance].
   * **Data Preprocessing**: Processes data into a suitable format for stock price prediction, including moving averages and normalization.
-  * **Model Training**: Trains the stock price prediction model using [Deep Learning/Machine Learning Library, e.g., TensorFlow, PyTorch, Scikit-learn].
-  * **Result Visualization**: Visualizes and compares actual vs. predicted stock prices using libraries like Matplotlib or Plotly.
-  * **Performance Evaluation**: Evaluates the model's performance using various metrics such as MSE, RMSE, and MAE.
+  * **Model Training**: Trains stock price prediction models using [Deep Learning/Machine Learning Library Used, e.g., TensorFlow, PyTorch, Scikit-learn].
+  * **Prediction Result Visualization**: Visualizes graphs comparing actual and predicted stock prices using Matplotlib, Plotly, etc.
+  * **Performance Evaluation**: Evaluates model performance using various metrics such as MSE, RMSE, and MAE.
 
 ## 🛠️ Tech Stack
 
   * **Language**: `Python 3.x`
   * **Libraries**:
-      * `Pandas`: For data analysis and manipulation.
-      * `NumPy`: For numerical operations.
-      * `TensorFlow` / `PyTorch` / `Scikit-learn`: For machine learning and deep learning models.
-      * `Matplotlib` / `Seaborn` / `Plotly`: For data visualization.
-      * `Jupyter Notebook`: As the project development environment.
+      * `Pandas`: Data analysis and manipulation
+      * `NumPy`: Numerical operations
+      * `TensorFlow` / `PyTorch` / `Scikit-learn`: Machine learning and deep learning models
+      * `Matplotlib` / `Seaborn` / `Plotly`: Data visualization
+      * `Jupyter Notebook`: Project development environment
 
 ## 💾 Installation & Usage
 
-1.  **Clone the Git repository:**
+1.  **Clone the Git Repository:**
 
     ```bash
     git clone https://github.com/HwanLee-0321/StockPricePredictionModel.git
     cd StockPricePredictionModel
     ```
 
-2.  **Install the required libraries:**
+2.  **Install Required Libraries:**
 
     ```bash
     pip install -r requirements.txt
     ```
-
-    *(If you don't have a `requirements.txt` file, please list the main libraries directly, e.g., `pip install pandas numpy tensorflow matplotlib`)*
 
 3.  **Run Jupyter Notebook:**
 
@@ -47,43 +45,37 @@ The goal of this project is to predict future stock prices by training on histor
     jupyter notebook
     ```
 
-4.  **Execute the notebook files:**
+4.  **Execute Notebook Files:**
 
-      * Open `[Data Collection & Preprocessing Filename].ipynb` and run the cells sequentially to prepare the data.
-      * Open `[Model Training & Evaluation Filename].ipynb` to train the model and check the results.
+      * Open `[Data Collection and Preprocessing Filename].ipynb` and run the cells sequentially to prepare the data.
+      * Open `[Model Training and Evaluation Filename].ipynb` to train the model and check the results.
 
 ## 📊 Dataset
 
-  * **Data Source**: [Data Source, e.g., Yahoo Finance API, Naver Finance Crawling]
-  * **Target**: [Prediction Target, e.g., Samsung Electronics (005930.KS)]
-  * **Period**: [Data Period, e.g., 2010-01-01 to 2023-12-31]
+  * **Data Source**: [Data Source, e.g., Yahoo Finance API, Naver Finance crawling]
+  * **Target**: Top 30 KOSPI stocks
+  * **Period**: [Data Period, e.g., 2010-01-01 \~ 2023-12-31]
   * **Features Used**: `Open`, `High`, `Low`, `Close`, `Volume`, etc.
-
-## 📈 Model & Performance
-
-[Provide a brief description of the model used, e.g., An LSTM model was used, designed to predict the next day's closing price based on the past N days of data.]
 
 **Model Performance:**
 
-  * **RMSE**: [Evaluation Result Value]
-  * **MAE**: [Evaluation Result Value]
-
-
-## 🚀 Future Work
-
-  * [Improvement 1, e.g., Add more diverse features (news, economic indicators)]
-  * [Improvement 2, e.g., Apply state-of-the-art models like Transformers]
-  * [Improvement 3, e.g., Optimize performance through hyperparameter tuning]
+  * **LN**: 2~3
 
 ## 📄 License
 
-This project is licensed under the [License Name, e.g., MIT, Apache 2.0] License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 -----
 
-**How to use:**
+**Usage Notes:**
 
-  * Save the content above as a `Readme.md` file and add it to your GitHub repository.
-  * Make sure to replace the content in `[ ]` and the examples with your project's actual details.
-  * If you don't have a `requirements.txt` file, you can generate one with the command: `pip freeze > requirements.txt`.
-  * For the prediction result image, it's convenient to upload it to a GitHub issue or another image hosting service and then use the image link.
+  * Save the content above as `Readme.md` and add it to your GitHub repository.
+  * The content within `[ ]` and examples should be modified to fit your project.
+  * If you don't have a `requirements.txt` file, you can generate one using the command: `pip freeze > requirements.txt`
+  * For prediction result images, it's convenient to upload them to GitHub Issues or other platforms and then use the image links.
+
+## Contributors
+
+  - Gominseo, Kim Jiho, Kim Taeun, Lee Humin, Lee Jaehwan
+
+-----
