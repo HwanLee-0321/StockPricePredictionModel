@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Stock Price Prediction</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <button class="navigation__button" data-target="dashboard">Dashboard</button>
+            <button class="navigation__button" data-target="data-processing">Data Processing</button>
+            <button class="navigation__button" data-target="prediction-model">Prediction Model</button>
+            <button class="navigation__button" data-target="financial-reports">Financial Reports</button>
+            <button class="navigation__button" data-target="financial-indexes">Financial Indexes</button>
+        </div>
+        <div class="main-content">
+            <div id="dashboard" class="content-section content-section--active">
+                <h1 class="content-section__title">Dashboard</h1>
+                <p>Welcome to the Stock Price Prediction application.</p>
+            </div>
+            <div id="data-processing" class="content-section">
+                <h1 class="content-section__title">Data Processing</h1>
+                <button id="preprocess-btn" class="button">Run Preprocessing</button>
+                <div id="preprocess-output" class="output-display"></div>
+            </div>
+            <div id="prediction-model" class="content-section">
+                <h1 class="content-section__title">Prediction Model</h1>
+                <button id="run-btn" class="button">Run Prediction</button>
+                <div id="output" class="output-display"></div>
+            </div>
+            <div id="financial-reports" class="content-section">
+                <h1 class="content-section__title">Financial Reports</h1>
+                <div id="financial-reports-list" class="file-list"></div>
+                <div id="financial-reports-content" class="output-display"></div>
+            </div>
+            <div id="financial-indexes" class="content-section">
+                <h1 class="content-section__title">Financial Indexes</h1>
+                <div id="financial-indexes-list" class="file-list"></div>
+                <div id="financial-indexes-content" class="output-display"></div>
+            </div>
+        </div>
+    </div>
+    <script src="renderer.js" type="module"></script>
+</body>
+</html>

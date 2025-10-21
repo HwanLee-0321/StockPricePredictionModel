@@ -1,0 +1,25 @@
+{
+  "name": "stockpricepredictionmodel",
+  "version": "1.0.0",
+  "description": "This project is a deep learning/machine learning model that predicts the stock prices of the top 30 KOSPI companies using LSTM and XGBoost.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HwanLee-0321/StockPricePredictionModel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HwanLee-0321/StockPricePredictionModel/issues"
+  },
+  "homepage": "https://github.com/HwanLee-0321/StockPricePredictionModel#readme",
+  "devDependencies": {
+    "electron": "^38.3.0"
+  }
+}

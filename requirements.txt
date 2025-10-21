@@ -1,0 +1,13 @@
+numpy
+pandas
+openai
+yfinance
+vaderSentiment
+textblob
+transformers
+tensorflow
+scikit-learn
+selenium
+tqdm
+joblib
+torch
